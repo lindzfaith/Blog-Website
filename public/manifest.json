@@ -1,7 +1,7 @@
 {
   "short_name": "Women Write Code",
-  "name": "Women Write Code Web Application",
-  "start_url": "/",
+  "name": "Women Write Code Website",
+  "start_url": ".",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
